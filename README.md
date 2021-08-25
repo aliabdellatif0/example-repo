@@ -14,3 +14,5 @@ git commit -m 'meaningful message helping you later on'
 git pull origin main // working in team
 
 git push origin main
+
+git status -> tells you what is going on
