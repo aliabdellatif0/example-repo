@@ -16,3 +16,13 @@ git pull origin main // working in team
 git push origin main
 
 git status -> tells you what is going on
+
+## branches 
+
+git checkout -b NAME-OF-BRANCH -> create and take you to that branch 
+
+git checkout -> take you to a branch
+
+git add & commit
+
+git push origin NAME-OF-BRANCH
