@@ -11,6 +11,6 @@ git add . or file name or -A -> adds to staging area
 
 git commit -m 'meaningful message helping you later on'
 
-git pull origin main
+git pull origin main // working in team
 
 git push origin main
